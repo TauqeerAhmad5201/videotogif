@@ -113,4 +113,4 @@ If your GIF is still too large after conversion:
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by ME + AI
